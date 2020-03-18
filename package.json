@@ -1,0 +1,23 @@
+{
+  "name": "team_generator",
+  "version": "1.0.0",
+  "description": "A software engineering team generator command line application, CLI (command line input.) The application will prompt the user for information about the team manager and then information about the team members.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josecmedinajr/Team_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josecmedinajr/Team_Generator/issues"
+  },
+  "homepage": "https://github.com/josecmedinajr/Team_Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "jest": "^25.1.0"
+  }
+}
